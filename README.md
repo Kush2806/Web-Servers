@@ -173,7 +173,3 @@ The servers implement a simple request-response protocol:
 5. **Error Handling**: Comprehensive exception handling and logging
 6. **Configuration**: Externalize port numbers, thread pool sizes, and other parameters
 7. **Metrics**: Add request counting, latency measurement, and throughput monitoring
-
-## License
-
-This project is provided for educational purposes.
